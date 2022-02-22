@@ -1,8 +1,6 @@
 # InstalTrackSAAZ  
 
 
-TL;DR : [ascineema](https://asciinema.org/a/IeWgAH6UuxPokyGxp8uUl1Xw3), [video of the project](https://www.youtube.com/watch?v=XVouSOwRDGE)
-
 A tool to scrape geotagged locations on Instagram profiles. Output in JSON & interactive map.
 
 
