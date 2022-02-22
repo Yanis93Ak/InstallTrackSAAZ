@@ -1,4 +1,4 @@
-# InstallTrackSAAZ  
+# InstaTrackSAAZ  
 
 
 A tool to scrape geotagged locations on Instagram profiles. Output in JSON & interactive map.
