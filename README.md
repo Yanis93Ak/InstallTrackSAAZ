@@ -12,7 +12,7 @@ sudo apt install chromium-chromedriver && chmod a+x /usr/bin/chromedriver
 ## 🛠️ installation
 
 ```
-git clone https://github.com/bernsteining/instaloctrack
+git clone https://github.com/Yanis93Ak/instaloctrack
 cd instaloctrack
 pip3 install .
 ```
